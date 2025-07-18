@@ -31,4 +31,8 @@
 }.small-divider{
     height: 0.5rem;
 }
+.heading{
+    font-size: 2rem;
+    height: 3.5rem;
+}
 }
